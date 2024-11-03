@@ -79,6 +79,12 @@ aside blockquote{
    padding: 10px;
    quotes: "\201C" "201D";
 }
+aside blockquote::before{
+   content: "\201c";
+   font-size: 1.6em;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+}
 
 
 
