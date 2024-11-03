@@ -85,6 +85,12 @@ aside blockquote::before{
    font-family: 'Times New Roman', Times, serif;
    font-weight: bold;
 }
+aside blockquote::after{
+   content: "\201D";
+   font-size: 1.6em;
+   font-family: 'Times New Roman', Times serif;
+   font-weight: bold;
+}
 
 
 
