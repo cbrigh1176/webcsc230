@@ -29,6 +29,20 @@ body{
    background-color: ivory;
    font-family: Verdana, Geneva, sans-serif;
 }
+body> footer{
+   background-color: rgb(222, 128, 60);
+   color:rgba(255, 255, 255, 0.6);
+   font-style: normal;
+   font-weight: bold;
+   font-variant: small-caps;
+   font-size: 0.9em;
+   line-height: 3em;
+   font-family: Nobile,  Verdana, sans-serif;
+   text-align: center;
+}
+
+
+
 
 
 
