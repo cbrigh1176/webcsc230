@@ -18,7 +18,17 @@
 */
 
 
-/* Main Structural Styles */
+/* Main Structural Styles-- Change the background color of the browser window by creating a style rule for the html element that sets the background color to the value hsl(27, 72%, 72%).
+
+For the body element, create a style rule to set the text color to the value rgb(91, 91, 91), the background color to ivory, and body text to the font stack: Verdana, Geneva, sans-serif.*/
+html{
+   background-color: hsl(27, 72%, 72%);
+}
+body{
+   color: rgb(91, 91, 91);
+   background-color: ivory;
+   font-family: Verdana, Geneva, sans-serif;
+}
 
 
 
