@@ -124,4 +124,9 @@ dt {
     font-weight: bold;
     color: hsla(0, 0%, 0%, 0.4);
 }
+dd {
+    font-size: 1.3em;
+    margin-left: o;
+    margin-bottom: 10px;
+}
 
