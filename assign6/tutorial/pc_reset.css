@@ -31,4 +31,17 @@ h3, h4, h5,h6, header, html, img, li, main, nav, ol, p, section, span, ul {
     vertical-align: baseline;
 
 }
+/* add style rules to remove list markers */
+
+nav ul{
+    list-style: none;
+    list-style-image: none;
+}
+nav a {
+    text-decoration: none;
+}
+/*set default line height to 1*/
+body {
+    line-height: 1;
+}
 
