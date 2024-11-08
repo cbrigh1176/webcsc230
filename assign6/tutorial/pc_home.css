@@ -78,4 +78,9 @@ section#rightColumn > nav.horizontalNavigation li {
 
 
 /* Footer Styles */
+footer::after {
+   clear: both;
+   content: "";
+   display: table;
+}
 
