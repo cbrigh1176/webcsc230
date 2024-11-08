@@ -83,4 +83,19 @@ footer::after {
    content: "";
    display: table;
 }
+footer {
+   clear: left;
+}
+footer >nav.verticalNavigation{
+   float: left;
+   width: 22%;
+}
+footer > section#contactInfo {
+   float: left;
+   width: 34%;
+}
+footer{
+   background-color: rgb(71, 52, 29);
+   clear: left;
+}
 
