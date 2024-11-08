@@ -54,6 +54,7 @@ section#leftColumn {
    clear: left;
    float: left;
    width: 33%;
+   padding: 1.5em;
 }
 section#rightColumn {
    float: left;
