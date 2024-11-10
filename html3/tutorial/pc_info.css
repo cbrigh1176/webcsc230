@@ -38,10 +38,20 @@ div#info {
 
 
 /* Second Infographic */
+div#info2 {
+    display: block;
+    top: 185px;
+    left: 42%;
+}
 
 
 
 /* Third Infographic */
+div#info3 {
+    display: block;
+    top: 135px;
+    left: 75%;
+}
 
 
 
