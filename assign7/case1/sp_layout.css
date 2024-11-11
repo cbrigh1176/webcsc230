@@ -54,6 +54,10 @@ body {
 
 
 /* Horizontal Navigation List Styles */
+.horizontal {
+    grid-column: span 4;
+
+}
 
 
 
@@ -75,5 +79,8 @@ body {
 
 
 /* Footer Styles */
+footer {
+    grid-column: span 4;
+}
 
 
