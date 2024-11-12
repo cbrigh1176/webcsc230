@@ -105,6 +105,9 @@ aside {
 
 
 /* Map Information Styles */
+.mapInfo {
+display: none;
+}
 
 
 
