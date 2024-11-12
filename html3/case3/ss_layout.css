@@ -75,6 +75,31 @@ aside {
 .battleMarkers a{
     position: absolute;
 }
+#marker1 {
+    top: 220px;
+    left: 340px;
+}
+#marker2 {
+    top: 194px;
+    left: 358;
+}
+#marker3 {
+    top: 202px;
+    left: 400;
+}
+#marker4 {
+    top: 217px;
+    left: 452;
+
+}
+#marker5 {
+    top: 229px;
+    left: 498px;
+}
+#marker6 {
+    top: 246px;
+    left: 544px;
+}
 
 
 
