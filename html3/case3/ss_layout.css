@@ -72,6 +72,9 @@ aside {
 
 
 /* Interactive Map Styles */
+.battleMarkers a{
+    position: absolute;
+}
 
 
 
