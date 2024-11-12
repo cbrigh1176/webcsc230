@@ -108,6 +108,9 @@ aside {
 .mapInfo {
 display: none;
 }
+a.battleMarkers + div.mapInfo {
+    display: block;
+}
 
 
 
