@@ -108,7 +108,7 @@ aside {
 .mapInfo {
 display: none;
 }
-a.battleMarkers + div.mapInfo {
+a.battleMarkers:hover + div.mapInfo {
     display: block;
 }
 
