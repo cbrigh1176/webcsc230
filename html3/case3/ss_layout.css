@@ -63,6 +63,10 @@ aside {
     margin-right: auto;
     position: relative;
 }
+#mapImage {
+    display: block;
+    width: 100%;
+}
 
 
 
