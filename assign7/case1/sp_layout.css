@@ -58,6 +58,11 @@ body {
     grid-column: span 4;
 
 }
+nav li {
+    display: block;
+    width: 12.5%;
+    float: left;
+}
 
 
 
