@@ -4,4 +4,8 @@ body {
 h2 {
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    filter: drop-shadow(0 0 5px);
+    
+    
 }
