@@ -26,6 +26,10 @@ body > header nav.tabs {
 background: url('sf_back1.png') no-repeat center center;
 background-size: cover;
 }
+body > header nav.tabs li {
+    perspective: 50px;
+    transform: rotateX(20deg);
+}
 
 
 
