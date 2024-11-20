@@ -73,11 +73,16 @@ body {
 aside {
     border: 4px double rgb(45, 93, 62);
     border-radius: 30px;
+    box-shadow: rgba(51, 91, 51, 0.4) 0px 0px 20px 10px;
 }
 
 
 
 
 /* Footer Styles */
+footer {
+    background: linear-gradient(345deg,rgb(172, 232, 172),
+                                        rgb(21, 35, 21) 80%);
+}
 
 
