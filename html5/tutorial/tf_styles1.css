@@ -150,5 +150,23 @@ a.submenuTitle:hover+ul.submenu, ul.submenu:hover{display: block;}
 
 
 /* New Styles Added Below */
+@media only screen and (min-width: 480px) {
+   nav.horizontal a {
+      font-size: 1.5em;
+      line-height: 2.2em;
+   }
+   aside {
+      display: none
+   }
+
+}
+
+@media only screen (min-width: 481px) {
+
+}
+
+@media only screen and (min-width: 769px) {
+
+}
 
 
