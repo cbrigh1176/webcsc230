@@ -5,8 +5,8 @@
    Tutorial 5
    Tutorial Case
    
-   Author:   Chris Bright
-   Date:     11-26-2024
+   Author:   chris Bright
+   Date:     11-27-24
    
    Filename: tf_styles1.css
    
@@ -150,21 +150,4 @@ body > footer {
 
 /* New Styles Added Below */
 
-/*Mobile Styles: 0px to 489px */
-@media screen and(max-width: 480px) {
-    
-}    
-
-
-
-
-/*Tablet Styles: 481px and greater*/
-@media screen and (min-width: 481px) {
-    
-}
-
-/*Desktop  Styles: 769px and greater*/
-@media screen and (min-width: 769px) {
-    
-}
 
