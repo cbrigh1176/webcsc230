@@ -1,11 +1,20 @@
 body {
     background-color: darkslategrey;
+    font-family:  Helvetica, Verdana, Tahoma, sans-serif;
+    color: black;
+    font-size: 16pt;
+    margin: 35px auto 0 auto;
+    padding: 15px 0 0 15px;
+    width: 85%;
 }
 h2 {
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
     filter: drop-shadow(0 0 5px);
+    }
+    /*figcaption*/
+    figcaption {
+        font-weight:bold
+    }
     
-    
-}
