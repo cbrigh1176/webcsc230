@@ -1,34 +1,20 @@
-body {
-    background-color: darkslategrey;
-    font-family:  Helvetica, Verdana, Tahoma, sans-serif;
+/*body styles*/
+body{
+    font-family: sans-serif, Verdana, Geneva, Tahoma, sans-serif;
     color: black;
-    font-size: 16pt;
-    margin: 35px auto 0 auto;
-    padding: 15px 0 0 15px;
+    font-size: 16px;
     width: 85%;
+    margin: auto;
+    background-color: #333;
 }
-h2 {
+header>h1{
+    font-size: 36px;
+    margin: 35px;
+    padding: 15px 0 0 15px;
+    background-color: rgb(6, 31, 53);
     color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
-    filter: drop-shadow(0 0 5px);
-    }
-    /*figcaption*/
-    figcaption {
-        font-weight:bold
-    }
-    /*Navigation style*/
-    nav{
-        background-color: #f0f0f0;
-        color: rgb(91, 91, 91);
-        text-align: center;
-        padding: 0;
-        margin: 0;
-        width: 25%;
-        height: 100vh;
-        
-        
-        
-        
-    }
-    
+    text-align: center;
+}
+figure>img{
+    float: 0;
+}
