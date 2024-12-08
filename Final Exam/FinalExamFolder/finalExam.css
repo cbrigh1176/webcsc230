@@ -81,3 +81,9 @@ table{
 .s-u{
     float: right;
 }
+ section h2{
+    text-decoration: underline;
+}
+footer{
+    font-size: 12px;
+}
