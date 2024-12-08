@@ -7,16 +7,77 @@ body{
     font-size: 16px;
     width: 85%;
     margin: auto;
-    background-color: #333;
+    background-color: wheat;
 }
-header>h1{
+.name{
     font-size: 36px;
     margin: 35px;
     padding: 15px 0 0 15px;
-    background-color: rgb(6, 31, 53);
+    font-style:italic;
     color: white;
-    text-align: center;
+    text-align: left;
+    float:0;
+    
+}
+header h3{
+    font-size: 24pt;
+    margin: 0px;
+    padding: 0px 0px 15px 15px;
+    background-color: brown;
+    color: white;
 }
 figure>img{
     float: 0;
+}
+table{
+    border: none;
+    width: 90%;
+    margin-left: 30px;
+}
+.program{
+    font-style: italic;
+    float: 0;
+}
+.welcome{
+    text-align: center;
+
+}
+
+
+
+/*week background colors*/
+.week-1{
+    background-color: brown;
+}
+.week-2{
+    background-color: brown;
+}
+.week-3{
+    background-color: brown;
+}
+.week-4{
+    background-color: brown;
+}
+.week-5{
+    background-color: brown;
+}
+.week-6{
+    background-color: brown;
+}
+.week-7{
+    background-color: brown;
+}
+.week-8{
+    background-color: brown;
+
+}
+.week-9{
+    background-color: brown;
+}
+.week-10{
+    background-color: brown;
+}
+/* sullivan image*/
+.s-u{
+    float: right;
 }
