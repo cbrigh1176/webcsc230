@@ -83,3 +83,13 @@ table{
 .s-u{
     float: right;
 }
+nav{
+
+        font-family: sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+        color: brown;
+        font-size: 30px;
+        
+        
+        background-color: wheat;
+    }
+    
